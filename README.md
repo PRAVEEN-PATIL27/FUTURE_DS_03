@@ -1,7 +1,3 @@
-Here's a professional **README.md** description for your GitHub repository.
-
----
-
 # 📊 Marketing Funnel & Conversion Performance Analysis
 
 ## 📌 Project Overview
